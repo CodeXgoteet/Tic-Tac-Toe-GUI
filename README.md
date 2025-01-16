@@ -19,7 +19,12 @@ This project implements a **Tic-Tac-Toe game** with an AI opponent using the Min
   - `pickle`
 
 ## Screenshots
+![Screenshot 2025-01-16 164416](https://github.com/user-attachments/assets/92d2ce45-3ac5-4ddd-872d-b8d461019d1a)
+
 ![Screenshot 2025-01-16 154429](https://github.com/user-attachments/assets/430cd645-a73c-411f-89fb-d53ec3c6795f)
+
+![Screenshot 2025-01-16 164232](https://github.com/user-attachments/assets/d66ac704-746c-4d7b-86ba-47de89f9449c)
+
 
 Install the dependencies using pip:
 ```bash
