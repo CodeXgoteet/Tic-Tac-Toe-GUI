@@ -18,6 +18,8 @@ This project implements a **Tic-Tac-Toe game** with an AI opponent using the Min
   - `opencv-python`
   - `pickle`
 
+## Screenshots
+![Screenshot 2025-01-16 154429](https://github.com/user-attachments/assets/430cd645-a73c-411f-89fb-d53ec3c6795f)
 
 Install the dependencies using pip:
 ```bash
@@ -39,5 +41,4 @@ The scores are displayed in the game window, and you can reset or quit anytime.
 File Structure
 TicTacToeAI.py: Main script containing the game logic and AI implementation.
 
-## Screenshots
-![Screenshot 2025-01-16 154429](https://github.com/user-attachments/assets/cb2393e0-917b-4fc1-b7fd-671f3d7b8db6)
+
